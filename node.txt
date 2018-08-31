@@ -1,0 +1,17 @@
+github 
+2297675726 mmmmmmmmgood Rockets,
+1292514269  mmmmmmmgood Rockets,
+3.6 vue官网
+3.7mpvue
+vue init mpvue/mpvue-quickstart my-project
+npm install
+npm run dev
+1292514269  这个小程序的appid
+去微信开发工具打开my-project
+
+3.8 地址都是js路径通过js来访问
+eslint
+package.json 
+lint:"eslint --fix --ext .js,.vue src"
+通过npm run lint规范化代码
+可以新增json文件来修改当前页面的配置
